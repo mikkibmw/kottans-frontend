@@ -22,6 +22,7 @@
    </details>        
 </details>
 
+<details>
 <summary><h2>Linux, CLI and HTTP</h2></summary>
   <details>
   <summary><h3>Мои впечатления</h3></summary>
