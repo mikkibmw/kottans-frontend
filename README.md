@@ -81,5 +81,6 @@
   <summary><h3>Скриншоты прохождения</h3></summary>
       <img src="https://github.com/mikkibmw/kottans-frontend/blob/main/task_git_collaboration/week3.png" alt="Collaboration">
       <img src="https://github.com/mikkibmw/kottans-frontend/blob/main/task_git_collaboration/week4.png" alt="Working with remotes">
+      <img src="https://github.com/mikkibmw/kottans-frontend/blob/main/task_git_collaboration/git5.png">
    </details>
 </details>
